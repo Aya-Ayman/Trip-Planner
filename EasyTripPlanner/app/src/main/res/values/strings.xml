@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Easy Trip Planner</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">User Name</string>
+    <string name="facebook_app_id">200149897421471</string>
+    <string name="fb_login_protocol_scheme">fb200149897421471</string>
+    <string name="title_activity_navigaton_drawer">UpComing Trips</string>
+    <string name="profile_name">profile_name</string>
+    <string name="profile_email">profile_email</string>
+    <string name="profile_password">profile_password</string>
+    <string name="save_profile">Save</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="later">Later</string>
+    <string name="startTrip">Start Trip</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_floating_widget">Create Floating Widget</string>
+    <string name="floating_widget_label">Floating Widget Label</string>
+    <string name="floating_widget_details">Floating Widget Details</string>
+    <string name="draw_other_app_permission_denied">Draw over other app permission not available. App won\'t work without permission. Please try again.</string>
+    <string name="floating_widget_start">start</string>
+    <string name="floating_widget_end">end</string>
+</resources>
+
